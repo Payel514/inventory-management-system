@@ -31,6 +31,16 @@ This is an Excel-based Inventory Management System that utilizes **VBA macros** 
 - Generate monthly sales reports
 - Export data to PDF or email automatically
 
+## 📸 Screenshots
+
+### Inventory Sheet
+![Inventory](https://github.com/user-attachments/assets/ee3e74e2-8ff4-4921-957e-afc8645b10c9)
+
+
+### Sales Sheet
+![Sales](https://github.com/user-attachments/assets/321bcd5c-1244-42b3-8a3e-f868b0881b42)
+
+
 
 
 ---
